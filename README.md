@@ -1,1 +1,2 @@
 # USA-and-Canada-United-Weather-System
+The USA and Canada United Weather System seeks to store usable weather data from  the National Weather Service (NWS), Meteorological Service of Canada (MSC), and Environment and Climate Change Canada (ECCC) . I seek to do this the use of 2 API's from the NWS and MSC. This will allow API's to be accessed seamlessly and easily so that storms and other weather phenomena that cross the border can be easily tracked.
